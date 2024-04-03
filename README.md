@@ -1,7 +1,5 @@
 # Implementation of Basic Logic Gates and Multiplexers in Verilog
 
-Project Duration: January - March 2022
-
 Tools Used: Vivado Design Suite
 
 Project Description:
@@ -22,7 +20,3 @@ The development process involved an initial phase of design conceptualization, f
 Challenges & Learning Outcomes:
 
 Throughout the project, I encountered several challenges, including debugging simulation mismatches and optimizing logic for efficiency. Overcoming these obstacles enhanced my problem-solving skills and deepened my understanding of digital design principles. Moreover, this project solidified my proficiency with the Vivado Design Suite, from project setup to simulation analysis.
-
-Conclusion:
-
-This portfolio project reflects my journey through the basics of digital logic design, emphasizing practical experience with Verilog programming and simulation. It showcases my ability to navigate from conceptual design to functional verification, a crucial skill set for tackling more complex digital systems design in the future.
