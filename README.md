@@ -1,5 +1,4 @@
-Digital Logic Design Using Verilog: A Portfolio Project Overview
-Project Title: Implementation of Basic Logic Gates and Multiplexers in Verilog
+# Implementation of Basic Logic Gates and Multiplexers in Verilog
 
 Project Duration: January - March 2022
 
